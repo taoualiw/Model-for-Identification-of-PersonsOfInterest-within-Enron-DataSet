@@ -25,7 +25,7 @@ In 2000, Enron was one of the largest companies in the United States. By 2002, i
       
 - Test folder :
 
-      Ipython notebook with all the processing and model selection steps using mainly pandas and sklearn libraries
+      Ipython notebook with all the processing and model selection steps using mainly pandas and sklearn libraries 
       
       poi_tester.py : testing script to show the reported performance of the final model
       
